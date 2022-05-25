@@ -1,6 +1,5 @@
 from django.contrib import admin
-
-from APIPASSMC.apimcpass.models import Seguridad
+from .models import Seguridad
 
 # Register your models here.
 
